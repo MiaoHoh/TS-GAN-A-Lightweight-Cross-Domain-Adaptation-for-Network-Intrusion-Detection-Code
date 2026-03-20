@@ -1,0 +1,2 @@
+# TS-GAN-A-Lightweight-Cross-Domain-Adaptation-for-Network-Intrusion-Detection-Code
+TS-GAN: A lightweight framework for Real-time Cross-Domain IDS. Integrates Knowledge Distillation for compression and Time-Series GANs for unsupervised domain adaptation. Resolves performance degradation from distribution shifts (e.g., UNSW-NB15 to CIC-IDS2017), achieving a 90.13% F1-score with only 1.42ms latency.
