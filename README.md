@@ -32,7 +32,7 @@ The repository is modularly structured for ease of maintenance:
 * `utils/`: Scripts for feature engineering, domain alignment, and GAN loss definitions.
 * `train.py`: Main entry point for the dual-stage training process (Distillation & Adaptation).
 * `evaluate.py`: Scripts for calculating F1-score, Latency, and generating robustness radar charts.
-
+* `https://doi.org/10.5281/zenodo.19142578.  
 ---
 
 ## ⚙️ 4. Requirements
